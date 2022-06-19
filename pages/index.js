@@ -41,7 +41,7 @@ export default function Home() {
                     </div>
                 </div>
             </div>
-            <div style={{top: 500}}>
+            <div style={{padding: '2%', paddingTop: 120}}>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque consectetur odio in enim consectetur, id dapibus est faucibus. Sed tristique libero vel ultrices suscipit. Integer fermentum dictum hendrerit. Fusce elementum sapien ac leo vehicula pellentesque. Suspendisse vel vulputate ligula. Cras neque nunc, facilisis malesuada porta non, consectetur sed odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lorem velit, vulputate ac dignissim at, lobortis eleifend lacus. Maecenas lacinia urna dolor, at vestibulum diam vestibulum vitae. Sed eget ante eu ligula dignissim interdum a feugiat enim. Aenean a nisi mollis, posuere risus id, porta purus. Nunc auctor odio in leo sollicitudin pulvinar. Nam varius non massa at scelerisque.
 
