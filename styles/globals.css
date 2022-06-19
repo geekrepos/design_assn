@@ -1,5 +1,6 @@
 html,
 body {
+  background: #0C0C0C;
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
@@ -13,4 +14,33 @@ a {
 
 * {
   box-sizing: border-box;
+  font-family: 'Encode Sans', sans-serif;
+  color: #E5DFD9;
+}
+
+@font-face {
+  font-family: "Comme";
+  src: url('../fonts/Comme/Comme-Light.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Comme";
+  src: url('../fonts/Comme/Comme-Bold.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+.header-icon:nth-child(-n+3)  {
+  margin-right: 26px;
+}
+
+.header {
+  position: fixed;
+
+  top: 0;
+
+  width: 100%
+
 }
